@@ -1,5 +1,5 @@
 # Class-03092020
 
-Name:
+Name: Chan Sing Hong
 
-Student ID:
+Student ID: 105022182
